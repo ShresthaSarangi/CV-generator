@@ -1,6 +1,6 @@
 # CV Generator
 
-A Django-based web application that allows users to create, edit, manage, and download their CVs easily. Users can fill in their details, generate a professional CV, make changes whenever required, and download it as a PDF file.
+A Django-based web application that allows users to create, edit, manage, and download their CVs easily. Users can fill in their details, generate a professional CV, make changes whenever required, and download it as a PDF file. Created using pre-defined templates.
 
 ## Features
 
