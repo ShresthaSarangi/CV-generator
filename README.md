@@ -84,6 +84,24 @@ cv-generator/
 └── mysite/
 ```
 
+## 📸 Screenshots
+
+### Home Page
+
+<img width="1912" height="939" alt="front_page png" src="https://github.com/user-attachments/assets/a32264af-d797-4d5f-a446-c7e8194f3f3f" />
+
+
+### Generated CV
+
+<img width="1895" height="947" alt="CV png" src="https://github.com/user-attachments/assets/b209d1ca-9b14-47dd-81d2-5568d7b42e1e" />
+<img width="1898" height="943" alt="CV1 png" src="https://github.com/user-attachments/assets/27e51735-3e67-4511-a482-55e41882d862" />
+
+
+### Create CV Page
+<img width="1919" height="942" alt="create png" src="https://github.com/user-attachments/assets/7fff4b60-0aa0-4240-aaaf-0632262e753a" />
+
+
+
 ## Author
 
 **Shrestha Sarangi**
